@@ -13,7 +13,8 @@
 ###  Contact me: 
 
  - **Email:** erieli.larad@gmail.com
- - linkedin: https://www.linkedin.com/in/fullstack-andres-monsalbe/ ,
+  <a href="https://www.linkedin.com/in/erielilara/" target="blank">
+<img align="center" src="https://github.com/erielilara/erielilara/blob/d775d75f7acd0107e079fe12b8ee1999c13fd499/assets/linkedin.png" alt="https://www.linkedin.com/in/erielilara/" height="30" width="40" /></a>
 
 <br>
 
