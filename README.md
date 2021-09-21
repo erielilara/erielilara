@@ -3,15 +3,15 @@
 ![Hi there](https://github.com/erielilara/erielilara/blob/9fe12d226b8a566e1212e2bd69e084f5cff1e50e/assets/Hithere.gif)
 
 
-### Some words about me
+## Some words about me
 - :nerd_face: I´m Erielí Carolina Lara, Computer Engineer and Front-end Developer. 
 - :rocket: In this moment I´m looking for new opportunities where I can get new experiences and learn a lot with a great development team. 
 - :star2: I´m always trying to grow and learn something new. Some of my skills are: 
-<br>
-            **ReactJs | Redux | JavaScript |Bootstrap | CSS3 | HTML5 |NodeJs | Express** 
+
+###  ReactJs | Redux | JavaScript |Bootstrap | CSS3 | HTML5 |NodeJs | Express 
 
 
-### Contact me: 
+## Contact me: 
 
  - **Email:** erieli.larad@gmail.com
   <a href="https://www.linkedin.com/in/erielilara/" target="blank">
